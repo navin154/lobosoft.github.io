@@ -11,3 +11,12 @@ body {
     right: 0px;
     margin:"0px 50px"
 }
+
+
+ .bg-image-blur {
+    -webkit-filter: blur(20px);
+    -moz-filter: blur(20px);
+    -o-filter: blur(20px);
+    -ms-filter: blur(20px);
+    filter: blur(20px);
+}
