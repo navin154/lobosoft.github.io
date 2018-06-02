@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to bottom, #5c5cd6, white); 
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.right {
+    position: fixed;
+    right: 0px;
+    margin:"0px 50px"
+}
